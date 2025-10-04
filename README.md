@@ -1,7 +1,5 @@
 <div align="center">
-## Hi im Hru
-**Software Dev | Malware Dev**
-Welcome to my github. I'm passionate about building elegant solutions to complex problems and developing custom tools or modificating opensource projects
+Welcome to my github. I'm passionate about building elegant solutions to complex problems, developing tools, modifying games and apps.
 </div>
 ---
 ## 🛠️ Technical Toolkit
