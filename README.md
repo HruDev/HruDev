@@ -1,7 +1,7 @@
 <div align="center">
 Welcome to my github. I'm passionate about building elegant solutions to complex problems, developing tools, modifying games and apps.
 </div>
----
+
 ## 🛠️ Technical Toolkit
 
 <div align="center">
